@@ -16,7 +16,7 @@
         <option name="Resta">Resta</option>
         <option name="Multiplicacion">Multiplicacion</option>
         <option name="Division">Division</option>
-        <option name="Resto">Resto</option>
+        <option name="Modulo">Modulo</option>
     </select>
 
     <button>Calcular</button>
